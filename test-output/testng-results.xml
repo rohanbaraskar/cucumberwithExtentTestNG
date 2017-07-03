@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing following method : Runner.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : Runner.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test Test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.setUpClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.setUpClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.feature]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.feature]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in cucumberRunner.Runner]]>
+    </line>
+    <line>
+      <![CDATA[Test Method had the following parameters : nullTo search cucumber in google,]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : Runner.tearDownr]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : Runner.tearDownr]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.feature]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.feature]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in cucumberRunner.Runner]]>
+    </line>
+    <line>
+      <![CDATA[Test Method had the following parameters : nullTo search junit in google,]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : Runner.tearDownr]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : Runner.tearDownr]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.feature]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.feature]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in cucumberRunner.Runner]]>
+    </line>
+    <line>
+      <![CDATA[Test Method had the following parameters : nullTo search testng in google,]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : Runner.tearDownr]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : Runner.tearDownr]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : Runner.takeScreenshot]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : Runner.takeScreenshot]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.tearDownClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.tearDownClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing test Test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : Runner.quit]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : Runner.quit]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4221" started-at="2017-07-03T10:28:18Z" finished-at="2017-07-03T10:28:22Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="4221" started-at="2017-07-03T10:28:18Z" finished-at="2017-07-03T10:28:22Z">
+      <class name="cucumberRunner.Runner">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="setUp" is-config="true" duration-ms="16899" started-at="2017-07-03T15:58:01Z" finished-at="2017-07-03T15:58:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Runner.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="setUpClass" is-config="true" duration-ms="218" started-at="2017-07-03T15:58:18Z" finished-at="2017-07-03T15:58:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.setUpClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="feature" duration-ms="921" started-at="2017-07-03T15:58:18Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-07-03T15:58:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To search cucumber in google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.feature]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.feature]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in cucumberRunner.Runner]]>
+            </line>
+            <line>
+              <![CDATA[Test Method had the following parameters : nullTo search cucumber in google,]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : Runner.tearDownr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownr(org.testng.ITestResult)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="tearDownr" is-config="true" duration-ms="319" started-at="2017-07-03T15:58:20Z" finished-at="2017-07-03T15:58:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20] output=About to begin executing following method : AbstractTestNGCucumberTests.feature]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Runner.tearDownr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownr -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="feature" duration-ms="199" started-at="2017-07-03T15:58:20Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-07-03T15:58:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To search junit in google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.feature]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.feature]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in cucumberRunner.Runner]]>
+            </line>
+            <line>
+              <![CDATA[Test Method had the following parameters : nullTo search junit in google,]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : Runner.tearDownr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownr(org.testng.ITestResult)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="tearDownr" is-config="true" duration-ms="311" started-at="2017-07-03T15:58:20Z" finished-at="2017-07-03T15:58:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20] output=About to begin executing following method : AbstractTestNGCucumberTests.feature]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Runner.tearDownr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownr -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="feature" duration-ms="177" started-at="2017-07-03T15:58:21Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2017-07-03T15:58:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To search testng in google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[About to begin executing following method : AbstractTestNGCucumberTests.feature]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.feature]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in cucumberRunner.Runner]]>
+            </line>
+            <line>
+              <![CDATA[Test Method had the following parameters : nullTo search testng in google,]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : Runner.tearDownr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownr(org.testng.ITestResult)[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="tearDownr" is-config="true" duration-ms="309" started-at="2017-07-03T15:58:21Z" finished-at="2017-07-03T15:58:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberRunner.Runner@3d921e20] output=About to begin executing following method : AbstractTestNGCucumberTests.feature]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Runner.tearDownr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownr -->
+        <test-method status="PASS" signature="takeScreenshot()[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="takeScreenshot" is-config="true" duration-ms="319" started-at="2017-07-03T15:58:21Z" finished-at="2017-07-03T15:58:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Runner.takeScreenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- takeScreenshot -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="tearDownClass" is-config="true" duration-ms="278" started-at="2017-07-03T15:58:22Z" finished-at="2017-07-03T15:58:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AbstractTestNGCucumberTests.tearDownClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:cucumberRunner.Runner@3d921e20]" name="quit" is-config="true" duration-ms="1887" started-at="2017-07-03T15:58:22Z" finished-at="2017-07-03T15:58:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : Runner.quit]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- cucumberRunner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

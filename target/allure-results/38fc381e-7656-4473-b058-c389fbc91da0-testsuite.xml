@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1499077698350" stop="1499077702588" version="1.4.3">
+    <name>Suite</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1499077698672" stop="1499077699586" status="passed">
+            <name>feature[To search cucumber in google]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1499077700340" stop="1499077700539" status="passed">
+            <name>feature[To search junit in google]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1499077701136" stop="1499077701312" status="passed">
+            <name>feature[To search testng in google]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
